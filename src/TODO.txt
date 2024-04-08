@@ -1,0 +1,8 @@
+2024/04/05 メモ
+
+今回のDone:
+    Transformerの理解
+
+次回Todo:
+    Transformerの理解
+    スケーラブルウェブサイトの構築（ハンズオン、githubに記載の初学者の学び方を確認）
